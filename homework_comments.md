@@ -8,7 +8,11 @@ ex 3 - ok
 ex 4 - ok
 ex 5 - ok
 
-foarte bine, continua tot asa, astept si week 3
+foarte bine, continua tot asa, astept si week 3 
+
+P.S. am refactorizat putin pachetele ca sa poti adauga week_no la fiecare saptamana
+
+totodata sa faci si un branch nou la fiecare saptamana cand adaugi tema
 
 **Week_3:** 
 ex 1 - 
