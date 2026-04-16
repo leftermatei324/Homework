@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Problema1" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="homeworks.week_2.Problema1" />
-    <module name="Homework" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
-  </configuration>
-</component>
