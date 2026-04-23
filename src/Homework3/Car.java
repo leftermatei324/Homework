@@ -47,6 +47,7 @@ public class Car {
     public void displayinfo(){
         System.out.println("Car: " + brand + mode1 + "(" + year + ")");
     }
+
     public static void main(String[] args) {
         Car car1 = new Car("Mercedes ", "GLC ", 2018);
         Car car2 = new Car("Audi ", "Q5 ", 2013);

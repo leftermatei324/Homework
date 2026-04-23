@@ -4,6 +4,16 @@ public class Vehicle {
     private String brand;
     private int year;
 
+    //constructorii primii mereu
+    public Vehicle() {
+    }
+
+    public Vehicle(String brand, int year){
+        setBrand(brand);
+        setYear(year);
+    }
+
+    //getteri-setteri dupa faza 2
     public String getBrand() {
         return brand;
     }
@@ -22,14 +32,6 @@ public class Vehicle {
         }else {
             System.out.println("Invalid year! Setting default to 2000.");
         }
-    }
-
-    public Vehicle(String brand, int year){
-        setBrand(brand);
-        setYear(year);
-    }
-
-    public Vehicle() {
     }
 
     public void displayinfo(){
