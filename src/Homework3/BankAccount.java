@@ -17,23 +17,21 @@ public class BankAccount {
         this.balance = balance;
     }
 
-    public void deposit(double amount){
-        if(amount < 0){
+    public void deposit(double amount) {
+        if (amount < 0) {
             System.out.println("Invalid amount");
-        }else {
+        } else {
             balance = balance + amount;
             System.out.println("Deposit " + amount);
             displaybalance();
         }
-
-
     }
 
-    public void withdraw(double amount){
-        if(balance >= amount && balance>0){
+    public void withdraw(double amount) {
+        if (balance >= amount && balance > 0) {
             balance = balance - amount;
             System.out.println("Withdraw: " + amount);
-        }else {
+        } else {
             System.out.println("Invalid");
         }
         displaybalance();
@@ -50,6 +48,8 @@ public class BankAccount {
         ca.deposit(-100);
         ca.deposit(500);
         ca.withdraw(700);
+        ca.displaybalance();
+        ca.withdraw(400);
         ca.displaybalance();
         ca.withdraw(400);
     }

@@ -52,7 +52,7 @@ public class Car {
         Car car2 = new Car("Audi ", "Q5 ", 2013);
 
         car1.displayinfo();
-        car1.displayinfo();
+        car2.displayinfo();
     }
 
 }

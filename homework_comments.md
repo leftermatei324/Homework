@@ -27,4 +27,27 @@ ex 9 -
 ex 10 - 
 
 
-**Week_4:**
+**Week_5:**
+ex 1 - ok, ai facut toate cerintele
+ex 2 - ok , mici modificari de aranjare cu trucul acela de sters '}' de la sfaristi si
+iti face rearanjarea automata + am adaugat inca un withdraw sa vad daca arata ca ai mers peste limita
+ex 3 - ok , toate cerintele
+ex 4 - ok , toate cerintele
+ex 5 - ok 
+ex 6 - ok 
+ex 7 - nu e facuta
+ex 8 - nu e facuta
+ex 9 - nu e facuta
+ex 10 - nu e facuta
+
+Ai utlizat toate conceptele, ai facut toate cerintele panan la ex 7, codul este bun, eu sunt
+multumit daca ai inteles conceptele ; codul cel putin arata foarte bine la nivelul
+actual de curs, esti si activ la curs. Cand ai timp poate faci si restul, nu sunt grele.
+
+Oricum e bine , bravo, continua munca !
+
+recomandare: daca conceptele le-ai prins , dubleaza cu invatarea teoriei in amanunt, la interviuri 
+e necesar
+
+
+**Week_6:**
