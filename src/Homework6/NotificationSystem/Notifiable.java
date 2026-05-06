@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.NotificationSystem;
+package Homework6.NotificationSystem;
 
 public interface Notifiable {
     abstract void sendNotification(String message);

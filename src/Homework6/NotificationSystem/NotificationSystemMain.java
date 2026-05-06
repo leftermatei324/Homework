@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.NotificationSystem;
+package Homework6.NotificationSystem;
 
 public class NotificationSystemMain {
     public static void main(String[] args) {

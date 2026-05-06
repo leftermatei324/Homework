@@ -51,3 +51,22 @@ e necesar
 
 
 **Week_6:**
+ex, 1, 2, 3
+foarte bine, sunt indeplinite criterile, asta vroiam sa vad cum sunt utilizate principiile OOP
+felicitari !
+
+am remarcat si verificarile care erau optionale, deci eu sunt multumit:) 
+
+P.S. am rearanjat putin pachetele , daca apar multe modificari e din cauza asta, 
+dar doar le-am pus in pachetul homework_6 pe cele 2 ca sa ai 3 pachete 
+pentru fiecare ex sub acest pachet homework_6
+
+**Week_7:**
+ex:
+1. ok
+2. ok
+3. ok
+4. ok
+   quiz - ?
+
+foarte bine , ai intuit impplementarile corect si le-ai pus in practica simplu si bine, felicitari !

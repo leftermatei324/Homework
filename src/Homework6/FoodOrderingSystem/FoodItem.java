@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.FoodOrderingSystem;
+package Homework6.FoodOrderingSystem;
 
 public abstract class FoodItem {
     private String name;

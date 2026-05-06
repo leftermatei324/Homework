@@ -1,7 +1,8 @@
-package Homework6.SchoolManagementSystem.NotificationSystem;
+package Homework6.NotificationSystem;
 
 public class SMSUser extends User implements Notifiable{
     private String phoneNumber;
+
     public SMSUser(String phoneNumber, String name){
         super(name);
         if (phoneNumber.length() != 10) {

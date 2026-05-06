@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.FoodOrderingSystem;
+package Homework6.FoodOrderingSystem;
 
 public class FoodOrderingSystemMAIN {
     public static void main(String[] args) {

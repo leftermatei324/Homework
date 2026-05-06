@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.FoodOrderingSystem;
+package Homework6.FoodOrderingSystem;
 
 public class Burger extends FoodItem{
     public Burger(String name, double price){

@@ -1,4 +1,4 @@
-package Homework6.SchoolManagementSystem.NotificationSystem;
+package Homework6.NotificationSystem;
 
 public class AppUser extends User implements Notifiable{
     private String deviceId;
